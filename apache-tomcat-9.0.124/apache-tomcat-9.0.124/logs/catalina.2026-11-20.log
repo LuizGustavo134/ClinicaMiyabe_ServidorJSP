@@ -1,0 +1,79 @@
+20-Nov-2026 17:59:10.050 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.124
+20-Nov-2026 17:59:10.052 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 9 2026 20:35:38 UTC
+20-Nov-2026 17:59:10.053 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.124.0
+20-Nov-2026 17:59:10.053 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+20-Nov-2026 17:59:10.053 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Nov-2026 17:59:10.053 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Nov-2026 17:59:10.053 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Apache NetBeans\jdk
+20-Nov-2026 17:59:10.054 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           26.0.2+10
+20-Nov-2026 17:59:10.054 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+20-Nov-2026 17:59:10.054 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124
+20-Nov-2026 17:59:10.057 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124
+20-Nov-2026 17:59:10.063 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-Nov-2026 17:59:10.063 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+20-Nov-2026 17:59:10.063 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+20-Nov-2026 17:59:10.063 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-Nov-2026 17:59:10.063 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+20-Nov-2026 17:59:10.063 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+20-Nov-2026 17:59:10.063 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-Nov-2026 17:59:10.063 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\logging.properties
+20-Nov-2026 17:59:10.063 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Nov-2026 17:59:10.063 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Nov-2026 17:59:10.064 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Nov-2026 17:59:10.064 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+20-Nov-2026 17:59:10.064 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+20-Nov-2026 17:59:10.064 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124
+20-Nov-2026 17:59:10.064 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124
+20-Nov-2026 17:59:10.064 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\temp
+20-Nov-2026 17:59:10.070 INFORMAÇÕES [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Apache NetBeans\jdk\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\WSL\;C:\Users\Gustavo\AppData\Local\Microsoft\WindowsApps;C:\Users\Gustavo\AppData\Local\GitHubDesktop\bin;C:\Users\Gustavo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Gustavo\AppData\Local\Programs\DockerDesktop\resources\bin;C:\Users\Gustavo\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim;C:\Program Files\Apache NetBeans\bin\;.]
+20-Nov-2026 17:59:10.287 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Nov-2026 17:59:10.305 INFORMAÇÕES [main] org.apache.catalina.startup.Catalina.load Server initialization in [415] milliseconds
+20-Nov-2026 17:59:10.352 INFORMAÇÕES [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Nov-2026 17:59:10.352 INFORMAÇÕES [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.124]
+20-Nov-2026 17:59:10.360 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\docs]
+20-Nov-2026 17:59:10.577 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\docs] has finished in [213] ms
+20-Nov-2026 17:59:10.577 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\examples]
+20-Nov-2026 17:59:11.088 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\examples] has finished in [511] ms
+20-Nov-2026 17:59:11.089 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\host-manager]
+20-Nov-2026 17:59:11.120 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\host-manager] has finished in [31] ms
+20-Nov-2026 17:59:11.120 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\manager]
+20-Nov-2026 17:59:11.151 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\manager] has finished in [31] ms
+20-Nov-2026 17:59:11.152 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\ROOT]
+20-Nov-2026 17:59:11.175 INFORMAÇÕES [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\ROOT] has finished in [24] ms
+20-Nov-2026 17:59:11.178 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Nov-2026 17:59:11.205 INFORMAÇÕES [main] org.apache.catalina.startup.Catalina.start Server startup in [898] milliseconds
+20-Nov-2026 17:59:11.303 INFORMAÇÕES [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\Catalina\localhost\ProjPesquisaWeb_Completo.xml]
+20-Nov-2026 17:59:11.304 ADVERTÊNCIA [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/ProjPesquisaWeb_Completo] in deployment descriptor [C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\Catalina\localhost\ProjPesquisaWeb_Completo.xml] has been ignored
+20-Nov-2026 17:59:11.538 INFORMAÇÕES [http-nio-8080-exec-6] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Nov-2026 17:59:11.543 INFORMAÇÕES [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\Catalina\localhost\ProjPesquisaWeb_Completo.xml] has finished in [240] ms
+20-Nov-2026 17:59:11.547 INFORMAÇÕES [http-nio-8080-exec-8] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ProjPesquisaWeb_Completo]] after start() had already been called. The second call will be ignored.
+20-Nov-2026 17:59:55.344 ADVERTÊNCIA [http-nio-8080-exec-9] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ProjPesquisaWeb_Completo] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+20-Nov-2026 17:59:55.344 ADVERTÊNCIA [http-nio-8080-exec-9] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [ProjPesquisaWeb_Completo] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread: 
+ java.base/java.lang.Object.wait0(Native Method)
+ java.base/java.lang.Object.wait(Object.java:391)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:123)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:201)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:84)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+ java.base/java.lang.Thread.run(Thread.java:1516)
+20-Nov-2026 17:59:55.852 INFORMAÇÕES [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ProjPesquisaWeb_Completo]
+20-Nov-2026 17:59:59.273 INFORMAÇÕES [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1478)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:1081)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:116)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:83)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+		at java.base/java.lang.Thread.run(Thread.java:1516)
+20-Nov-2026 18:08:10.548 INFORMAÇÕES [http-nio-8080-exec-13] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\Catalina\localhost\ProjPesquisaWeb_Completo.xml]
+20-Nov-2026 18:08:10.549 ADVERTÊNCIA [http-nio-8080-exec-13] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/ProjPesquisaWeb_Completo] in deployment descriptor [C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\Catalina\localhost\ProjPesquisaWeb_Completo.xml] has been ignored
+20-Nov-2026 18:08:10.732 INFORMAÇÕES [http-nio-8080-exec-13] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Nov-2026 18:08:10.735 INFORMAÇÕES [http-nio-8080-exec-13] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\GitHub\MiyabeJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\Catalina\localhost\ProjPesquisaWeb_Completo.xml] has finished in [187] ms
+20-Nov-2026 18:08:10.737 INFORMAÇÕES [http-nio-8080-exec-15] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ProjPesquisaWeb_Completo]] after start() had already been called. The second call will be ignored.
+20-Nov-2026 18:14:09.596 INFORMAÇÕES [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+20-Nov-2026 18:14:09.597 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Nov-2026 18:14:09.599 INFORMAÇÕES [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Nov-2026 18:14:09.609 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Nov-2026 18:14:09.611 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    min-height: 100vh;
+    background: linear-gradient(to right, #00f7ff, #104c68);
+    display: flex;
+    
+.form-Main {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    width: 350px;
+    max-width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    background: linear-gradient(to right, #01abb1, #94dfdf);
+    color: #000;
+    border-radius: 10px;
+}
+
+.campos {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.campos input[type="text"],
+.campos input[type="email"],
+.campos input[type="tel"],
+.campos select {
+    padding: 8px;
+    border: 1px solid #104c68;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+
+.campos input:hover,
+.campos select:hover {
+    background-color: #e6e6e6;
+    scale: 1.03;
+}
+
+.grupo-radio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+button {
+    padding: 10px 30px;
+    border: none;
+    border-radius: 6px;
+    background-color: #104c68;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #1c5369;
+    scale: 1.05;
+}
+}
