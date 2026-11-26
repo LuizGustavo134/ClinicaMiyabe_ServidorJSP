@@ -1,0 +1,203 @@
+26-Nov-2026 09:10:59.617 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.124
+26-Nov-2026 09:10:59.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 9 2026 20:35:38 UTC
+26-Nov-2026 09:10:59.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.124.0
+26-Nov-2026 09:10:59.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Nov-2026 09:10:59.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Nov-2026 09:10:59.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Nov-2026 09:10:59.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-24
+26-Nov-2026 09:10:59.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           24.0.2+12-54
+26-Nov-2026 09:10:59.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Nov-2026 09:10:59.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124
+26-Nov-2026 09:10:59.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124
+26-Nov-2026 09:10:59.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Nov-2026 09:10:59.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+26-Nov-2026 09:10:59.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+26-Nov-2026 09:10:59.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Nov-2026 09:10:59.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Nov-2026 09:10:59.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Nov-2026 09:10:59.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Nov-2026 09:10:59.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\logging.properties
+26-Nov-2026 09:10:59.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Nov-2026 09:10:59.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+26-Nov-2026 09:10:59.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+26-Nov-2026 09:10:59.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+26-Nov-2026 09:10:59.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+26-Nov-2026 09:10:59.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124
+26-Nov-2026 09:10:59.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124
+26-Nov-2026 09:10:59.663 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\temp
+26-Nov-2026 09:10:59.679 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-24\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python314\Scripts\;C:\Python314\;C:\Program Files\Python313\Scripts\;C:\Program Files\Python313\;C:\Program Files\Rockwell Software\RSCommon;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\flutter\bin;C:\Program Files\apache-maven-3.9.9\bin;C:\Users\alunocmc\Android\Sdk\emulator;C:\Users\alunocmc\Android\Sdk\tools;C:\Users\alunocmc\Android\Sdk\tools\bin;C:\Users\alunocmc\Android\Sdk\platform-tools;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\Users\alunocmc\AppData\Local\Microsoft\WindowsApps;C:\Users\alunocmc\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\alunocmc\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim;;.]
+26-Nov-2026 09:10:59.903 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+26-Nov-2026 09:10:59.919 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [474] milliseconds
+26-Nov-2026 09:10:59.968 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Nov-2026 09:10:59.968 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.124]
+26-Nov-2026 09:10:59.975 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\Catalina\localhost\ProjPesquisaWeb_Completo.xml]
+26-Nov-2026 09:10:59.987 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/ProjPesquisaWeb_Completo] in deployment descriptor [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\Catalina\localhost\ProjPesquisaWeb_Completo.xml] has been ignored
+26-Nov-2026 09:11:00.016 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\Catalina\localhost\ProjPesquisaWeb_Completo.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:619)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:588)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:623)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:715)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1862)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:96)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:124)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:604)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:495)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1599)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:333)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:115)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:395)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:342)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:792)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:741)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1243)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1233)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:96)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:148)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:765)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:209)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:433)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:898)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:899)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:348)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:485)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@928763c]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:410)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:185)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4384)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4506)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:616)
+		... 35 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\GitHub\MiyabeJSP\ProjPesquisaWeb_Completo\build\web] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:828)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:780)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:170)
+		... 39 more
+26-Nov-2026 09:11:00.030 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\Catalina\localhost\ProjPesquisaWeb_Completo.xml] has finished in [50] ms
+26-Nov-2026 09:11:00.031 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\docs]
+26-Nov-2026 09:11:00.249 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\docs] has finished in [217] ms
+26-Nov-2026 09:11:00.249 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\examples]
+26-Nov-2026 09:11:00.681 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\examples] has finished in [432] ms
+26-Nov-2026 09:11:00.681 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\host-manager]
+26-Nov-2026 09:11:00.724 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\host-manager] has finished in [41] ms
+26-Nov-2026 09:11:00.724 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\manager]
+26-Nov-2026 09:11:00.760 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\manager] has finished in [36] ms
+26-Nov-2026 09:11:00.760 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\ROOT]
+26-Nov-2026 09:11:00.790 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\ROOT] has finished in [30] ms
+26-Nov-2026 09:11:00.793 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+26-Nov-2026 09:11:00.818 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [889] milliseconds
+26-Nov-2026 09:11:06.234 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ProjPesquisaWeb_Completo]
+26-Nov-2026 09:11:06.263 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\Catalina\localhost\ProjPesquisaWeb_Completo.xml]
+26-Nov-2026 09:11:06.266 WARNING [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/ProjPesquisaWeb_Completo] in deployment descriptor [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\Catalina\localhost\ProjPesquisaWeb_Completo.xml] has been ignored
+26-Nov-2026 09:11:06.517 INFO [http-nio-8080-exec-3] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Nov-2026 09:11:06.522 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\Catalina\localhost\ProjPesquisaWeb_Completo.xml] has finished in [259] ms
+26-Nov-2026 09:11:06.526 INFO [http-nio-8080-exec-8] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ProjPesquisaWeb_Completo]] after start() had already been called. The second call will be ignored.
+26-Nov-2026 09:11:53.138 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:11:53.143 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:15:30.813 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+26-Nov-2026 09:15:30.814 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+26-Nov-2026 09:15:30.818 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Nov-2026 09:15:30.843 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+26-Nov-2026 09:15:30.850 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+26-Nov-2026 09:15:37.475 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.124
+26-Nov-2026 09:15:37.477 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 9 2026 20:35:38 UTC
+26-Nov-2026 09:15:37.477 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.124.0
+26-Nov-2026 09:15:37.477 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+26-Nov-2026 09:15:37.477 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Nov-2026 09:15:37.477 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Nov-2026 09:15:37.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-24
+26-Nov-2026 09:15:37.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           24.0.2+12-54
+26-Nov-2026 09:15:37.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Nov-2026 09:15:37.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124
+26-Nov-2026 09:15:37.478 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124
+26-Nov-2026 09:15:37.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+26-Nov-2026 09:15:37.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+26-Nov-2026 09:15:37.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+26-Nov-2026 09:15:37.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+26-Nov-2026 09:15:37.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+26-Nov-2026 09:15:37.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+26-Nov-2026 09:15:37.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+26-Nov-2026 09:15:37.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\logging.properties
+26-Nov-2026 09:15:37.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Nov-2026 09:15:37.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+26-Nov-2026 09:15:37.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+26-Nov-2026 09:15:37.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+26-Nov-2026 09:15:37.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+26-Nov-2026 09:15:37.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124
+26-Nov-2026 09:15:37.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124
+26-Nov-2026 09:15:37.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\temp
+26-Nov-2026 09:15:37.495 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-24\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python314\Scripts\;C:\Python314\;C:\Program Files\Python313\Scripts\;C:\Program Files\Python313\;C:\Program Files\Rockwell Software\RSCommon;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\flutter\bin;C:\Program Files\apache-maven-3.9.9\bin;C:\Users\alunocmc\Android\Sdk\emulator;C:\Users\alunocmc\Android\Sdk\tools;C:\Users\alunocmc\Android\Sdk\tools\bin;C:\Users\alunocmc\Android\Sdk\platform-tools;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\Users\alunocmc\AppData\Local\Microsoft\WindowsApps;C:\Users\alunocmc\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\alunocmc\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim;;.]
+26-Nov-2026 09:15:37.734 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+26-Nov-2026 09:15:37.748 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [436] milliseconds
+26-Nov-2026 09:15:37.784 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Nov-2026 09:15:37.784 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.124]
+26-Nov-2026 09:15:37.792 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\Catalina\localhost\ProjPesquisaWeb_Completo.xml]
+26-Nov-2026 09:15:37.802 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/ProjPesquisaWeb_Completo] in deployment descriptor [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\Catalina\localhost\ProjPesquisaWeb_Completo.xml] has been ignored
+26-Nov-2026 09:15:38.215 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Nov-2026 09:15:38.260 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\conf\Catalina\localhost\ProjPesquisaWeb_Completo.xml] has finished in [466] ms
+26-Nov-2026 09:15:38.261 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\docs]
+26-Nov-2026 09:15:38.293 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\docs] has finished in [32] ms
+26-Nov-2026 09:15:38.294 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\examples]
+26-Nov-2026 09:15:38.666 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\examples] has finished in [372] ms
+26-Nov-2026 09:15:38.666 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\host-manager]
+26-Nov-2026 09:15:38.706 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\host-manager] has finished in [39] ms
+26-Nov-2026 09:15:38.706 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\manager]
+26-Nov-2026 09:15:38.739 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\manager] has finished in [33] ms
+26-Nov-2026 09:15:38.740 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\ROOT]
+26-Nov-2026 09:15:38.764 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\alunocmc\Downloads\quizJavaJSP\apache-tomcat-9.0.124\apache-tomcat-9.0.124\webapps\ROOT] has finished in [23] ms
+26-Nov-2026 09:15:38.766 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+26-Nov-2026 09:15:38.789 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1040] milliseconds
+26-Nov-2026 09:26:36.404 WARNING [http-nio-8080-exec-1] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:26:45.945 WARNING [http-nio-8080-exec-5] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:27:39.652 WARNING [http-nio-8080-exec-1] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:27:41.481 WARNING [http-nio-8080-exec-2] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:28:10.120 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:28:29.694 WARNING [http-nio-8080-exec-7] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:28:44.469 WARNING [http-nio-8080-exec-2] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:29:22.464 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:29:33.729 WARNING [http-nio-8080-exec-7] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:30:19.691 WARNING [http-nio-8080-exec-1] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:31:12.098 WARNING [http-nio-8080-exec-2] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:32:56.086 WARNING [http-nio-8080-exec-9] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:32:58.163 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:33:09.108 WARNING [http-nio-8080-exec-6] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:33:19.177 WARNING [http-nio-8080-exec-1] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:33:19.501 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:33:33.552 WARNING [http-nio-8080-exec-8] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:33:57.948 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:33:57.953 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:36:44.999 WARNING [http-nio-8080-exec-6] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:37:46.851 WARNING [http-nio-8080-exec-2] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:37:55.984 WARNING [http-nio-8080-exec-8] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:39:21.966 WARNING [http-nio-8080-exec-7] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:39:31.999 WARNING [http-nio-8080-exec-9] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:39:41.789 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:42:35.779 WARNING [http-nio-8080-exec-4] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:43:27.966 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:44:26.646 WARNING [http-nio-8080-exec-2] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 09:59:11.871 WARNING [http-nio-8080-exec-9] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 10:01:28.812 WARNING [http-nio-8080-exec-5] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 10:01:34.399 WARNING [http-nio-8080-exec-5] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 10:03:40.800 WARNING [http-nio-8080-exec-7] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 10:03:50.378 WARNING [http-nio-8080-exec-3] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 10:04:12.301 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 10:04:35.158 WARNING [http-nio-8080-exec-5] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 10:04:49.152 WARNING [http-nio-8080-exec-5] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 10:05:00.355 WARNING [http-nio-8080-exec-2] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 10:05:20.256 WARNING [http-nio-8080-exec-10] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 10:05:40.489 WARNING [http-nio-8080-exec-2] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts Foi feita uma tentativa de autenticação do usuário já bloqueado []
+26-Nov-2026 10:45:08.199 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+26-Nov-2026 10:45:08.202 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+26-Nov-2026 10:45:08.209 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Nov-2026 10:45:08.236 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+26-Nov-2026 10:45:08.246 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
